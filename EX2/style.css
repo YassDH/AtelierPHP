@@ -1,0 +1,35 @@
+body{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: sans-serif;
+}
+form{
+    padding: 10px;
+}
+button{
+    width: 100%;
+}
+.alert{
+    text-align: center;
+    background-color: #E74C3C;
+    border: 1px solid #C0392B;
+    color: #F2F4F4;
+    border-radius: 5px;
+    padding: 0px 10px;
+    width: auto;
+}
+.sucess{
+    text-align: center;
+    background-color: #28B463;
+    border: 1px solid #27AE60;
+    color: #F2F4F4;
+    border-radius: 5px;
+    padding: 0px 10px;
+    width: auto;
+}
